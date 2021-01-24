@@ -36,7 +36,27 @@ li {
 }
 
 .home_image {
-    padding: 2px;
+    background-color: #fff5ea;
+    background-image: url(../image/home/home_image-min.JPG);
+    background-size: cover;
+    background-position-y: 20%;
+    height: 100%;
+    width: 100%;
+}
+
+.home_image-mask {
+    height: 100%;
+    background-color: rgba(255, 255, 255, 0.3);
+}
+
+.home_image-title {
+    font-size: 60px;
+    color: #000000;
+    text-align: center;
+    width: 80%;
+    height: 80%;
+    padding: 10%;
+    font-weight: 600;
 }
 
 .main {
