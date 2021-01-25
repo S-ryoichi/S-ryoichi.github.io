@@ -69,6 +69,8 @@ li {
     float: right;
     height: 1200px;
     width: 500px;
+    text-align: center;
+    font-size: 30px;
 }
 
 .sns {
