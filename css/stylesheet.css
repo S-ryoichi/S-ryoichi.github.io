@@ -62,6 +62,13 @@ li {
 .main {
     background-color: #fff5ea;
     padding: 40px;
+    height: 1500px;
+}
+
+.twitter-timeline {
+    float: right;
+    height: 1200px;
+    width: 500px;
 }
 
 .sns {
