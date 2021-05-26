@@ -66,7 +66,7 @@ li {
 }
 
 .twitter-timeline {
-    float: right;
+    float: left;
     height: 1200px;
     width: 500px;
     text-align: center;
@@ -74,6 +74,7 @@ li {
 }
 
 .calendar {
+    float: center;
     background-color: #fff5ea;
     padding: 30px;
 }
