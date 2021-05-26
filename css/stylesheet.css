@@ -73,6 +73,11 @@ li {
     font-size: 30px;
 }
 
+.calendar {
+    background-color: #fff5ea;
+    padding: 30px;
+}
+
 .sns {
     background-color: #fff5ea;
     padding: 30px;
